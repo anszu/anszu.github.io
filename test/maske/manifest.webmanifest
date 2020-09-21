@@ -9,7 +9,7 @@
             "sizes": "192x192"
         }
     ],
-    "start_url": "/test/maske.html",
+    "start_url": "/test/maske/",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
     "display": "fullscreen"
