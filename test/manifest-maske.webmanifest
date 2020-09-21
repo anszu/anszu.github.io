@@ -1,7 +1,7 @@
 {
-    "short_name": "Orgavision",
-    "name": "Mein Orgavision",
-    "description": "Informationen lenken, Workflows automatisieren und Zeit sparen.",
+    "short_name": "Ereignis",
+    "name": "Ereignis melden",
+    "description": "Meldemaske zum Ereignis melden.",
     "icons": [
         {
             "src": "icon.png",
@@ -9,7 +9,7 @@
             "sizes": "192x192"
         }
     ],
-    "start_url": "/test/",
+    "start_url": "/test/maske.html",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
     "display": "fullscreen"
