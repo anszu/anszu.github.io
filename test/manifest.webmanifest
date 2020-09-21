@@ -4,12 +4,12 @@
     "description": "Informationen lenken, Workflows automatisieren und Zeit sparen.",
     "icons": [
         {
-            "src": "/testing/icon.png",
+            "src": "/test/icon.png",
             "type": "image/png",
             "sizes": "176x178"
         }
     ],
-    "start_url": "/testing/",
+    "start_url": "/test/",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
     "display": "fullscreen"
