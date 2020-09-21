@@ -1,0 +1,16 @@
+{
+    "short_name": "orgavision",
+    "name": "Mein Orgavision",
+    "description": "Informationen lenken, Workflows automatisieren und Zeit sparen.",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "176x178"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "display": "fullscreen"
+}
