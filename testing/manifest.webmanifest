@@ -4,7 +4,7 @@
     "description": "Informationen lenken, Workflows automatisieren und Zeit sparen.",
     "icons": [
         {
-            "src": "icon.png",
+            "src": "/testing/icon.png",
             "type": "image/png",
             "sizes": "176x178"
         }
